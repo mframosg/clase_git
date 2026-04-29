@@ -1,0 +1,23 @@
+hola.py
+  a31c8de8f0d789a2 20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "d5fae52d828014f7f5dcf5eb86691af3c3cfabd6",
+  "prompts": {
+    "a31c8de8f0d789a2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5523d218-18c5-462f-b339-6d78538e8bcb",
+        "model": "claude-haiku-4-5-20251001"
+      },
+      "human_author": "Miguel Ramos",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
