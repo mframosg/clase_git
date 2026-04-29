@@ -1,0 +1,14 @@
+hola.py
+  h_6d1e7583ef1d0d 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "bf752f47a6acd4bc15ef6c869ea7d6947ee9077d",
+  "prompts": {},
+  "humans": {
+    "h_6d1e7583ef1d0d": {
+      "author": "Miguel Ramos"
+    }
+  }
+}
