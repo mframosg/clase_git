@@ -17,7 +17,7 @@ class Calculadora:
         return a / b
 
     def ejecutar(self):
-        print("=== Calculadora ===")
+        print("=== Mi Calculadora V1.0 ===")
         while self.continuar:
             print("\nOperaciones disponibles:")
             print("1. Sumar")
