@@ -1,0 +1,14 @@
+README.md
+  h_f01fc8d1ab6efa 99-100
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "4c9c76b1579f1e7145233a509fae16b6bd7b71b7",
+  "prompts": {},
+  "humans": {
+    "h_f01fc8d1ab6efa": {
+      "author": "mframosg"
+    }
+  }
+}
