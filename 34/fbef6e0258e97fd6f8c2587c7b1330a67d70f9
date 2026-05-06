@@ -1,0 +1,28 @@
+README.md
+  b860af3e5cf9c3c4 1-95
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "34fbef6e0258e97fd6f8c2587c7b1330a67d70f9",
+  "prompts": {
+    "b860af3e5cf9c3c4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a2505719-d25e-4145-9f06-85ccc14fc671",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "mframosg",
+      "messages": [],
+      "total_additions": 95,
+      "total_deletions": 1,
+      "accepted_lines": 95,
+      "overriden_lines": 0
+    }
+  },
+  "humans": {
+    "h_f01fc8d1ab6efa": {
+      "author": "mframosg"
+    }
+  }
+}
