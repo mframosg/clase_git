@@ -93,3 +93,6 @@ Desarrollado con fines educativos.
 ---
 
 > _"La mejor calculadora es la que entiendes tú mismo."_
+
+
+# This code is by Miguel Ramos
